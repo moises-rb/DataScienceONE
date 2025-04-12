@@ -94,3 +94,17 @@ Esse percurso me deu confiança para:
 - ✅ Avançar com segurança para bibliotecas como **Pandas**, **NumPy** e **Seaborn**
 
 ---
+## 🔮 Próximos Passos
+A jornada em Data Science está só começando! Os próximos objetivos incluem:
+
+- 📊 Aprofundar em análise de dados com Pandas
+
+- 📈 Criar visualizações mais avançadas com Seaborn e Plotly
+
+- 📦 Trabalhar com grandes volumes de dados usando NumPy
+
+- 🧠 Iniciar os estudos em Machine Learning com Scikit-Learn
+
+- 🤖 Integrar Python com ferramentas de automação e dashboards
+
+- 📁 Criar portfólio com projetos reais e bem documentados
